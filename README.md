@@ -1,5 +1,4 @@
-# AutoPresence-Web-App
-AttendAI is an AI-powered smart attendance platform that uses facial recognition, live location verification, and automated classroom scanning to mark attendance instantly and securely through mobile and web applications.
+
 # 🚀 AttendAI — AI-Powered Smart Attendance System
 
 ## 📌 Overview
